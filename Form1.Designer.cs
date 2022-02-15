@@ -101,7 +101,6 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 46F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(2724, 1072);
             this.Controls.Add(this.cpuPlayer);
